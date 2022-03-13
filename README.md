@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Portfólio criado com o intuito de mostrar os projetos desenvolvidos ao decorrer dos seis semestres cursados no curso de Banco de Dados - Fatec Jessen Vital.
+  Portfólio criado com o intuito de apresentar os projetos desenvolvidos ao decorrer dos seis semestres do curso de Banco de Dados - Fatec Jessen Vital.
 </h4>
 
 <br></br>
