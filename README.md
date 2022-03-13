@@ -30,3 +30,8 @@
 
 ## 🦄 Autora<br>
 Caroline Paz de Sousa 💻
+<br> </br>
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/CarolPaz)
+<br> </br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-sousa-53a27972/)
+
