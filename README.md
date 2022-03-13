@@ -7,19 +7,26 @@
 </h4>
 
 <br></br>
-![Captura de tela 2022-03-13 181202](https://user-images.githubusercontent.com/61089745/158079455-49007764-0985-44d9-8403-c691dbaf4f34.png)
-
-
-<h4 align="left"><a href="https://github.com/caroolps/Portfolio01">1º SEM: Mapeador de Criminalidade ao Redor da FATEC</a></h4>
-<h4 align="left"><a href="https://github.com/caroolps/Portfolio02">2º SEM: Gantt Chart</a></h4>
-<h4 align="left"><a href="https://github.com/caroolps/Portfolio03">3º SEM: Cadastro Positivo</a></h4>
-<h4 align="left"><a href="https://github.com/caroolps/Portfolio04">4º SEM: Projeto04</a></h4>
-<h4 align="left"><a href="https://github.com/caroolps/Portfolio05">5º SEM: Projeto05</a></h4>
+![image](https://user-images.githubusercontent.com/61089745/158080023-d431b651-acd3-4804-9e27-3132266d82c2.png)
 
 
 
 ## 📚 Seções
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio01">PROJETO 1º SEMESTRE: Mapeador de Criminalidade ao Redor da FATEC</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio02">PROJETO 2º SEMESTRE: Gantt Chart</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio03">PROJETO 3º SEMESTRE: Cadastro Positivo</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio04">PROJETO 4º SEMESTRE: Projeto04</a></h4>
+<h4 align="left"><a href="https://github.com/caroolps/Portfolio05">PROJETO 5º SEMESTRE: Projeto05</a></h4>
 
-## 💼 Tecnologias utilizadas
+## 💼 Principais Tecnologias utilizadas
+- Python
+- Java
+- Spring Boot
+- Oracle
+- Sql Server
+- My SQL
+- JavaFx
+- Angular
 
-## 🦄 Autor<br>
+## 🦄 Autora<br>
+Caroline Paz de Sousa 💻
